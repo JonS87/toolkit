@@ -1,0 +1,9 @@
+.movie {
+  position: relative;
+}
+
+.movie-favorite {
+  position: absolute;
+  top: 10;
+  right: 10;
+}
